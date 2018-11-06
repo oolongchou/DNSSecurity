@@ -1,0 +1,3 @@
+server 222.28.100.5
+update add thutest.pkuih.edu.cn 86400 IN A 9.9.9.9
+send 

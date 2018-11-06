@@ -1,0 +1,91 @@
+
+; <<>> DiG 9.10.6 <<>> axfr hncc.edu.cn @125.219.124.18
+;; global options: +cmd
+hncc.edu.cn.		600	IN	SOA	dns.hncc.edu.cn. root.hncc.edu.cn. 2018110200 28800 14400 3600000 7200
+hncc.edu.cn.		600	IN	MX	5 mail.hncc.edu.cn.
+hncc.edu.cn.		600	IN	MX	10 mail1.hncc.edu.cn.
+hncc.edu.cn.		600	IN	NS	dns.hncc.edu.cn.
+hncc.edu.cn.		600	IN	NS	dns2.hncc.edu.cn.
+2014jxms.hncc.edu.cn.	600	IN	A	125.219.124.36
+2017.hncc.edu.cn.	600	IN	A	42.228.9.9
+3y3s.hncc.edu.cn.	600	IN	A	125.219.124.36
+auto.hncc.edu.cn.	600	IN	A	125.219.124.36
+bwc.hncc.edu.cn.	600	IN	A	125.219.124.36
+cachedns.hncc.edu.cn.	600	IN	A	125.219.124.114
+cwc.hncc.edu.cn.	600	IN	A	125.219.124.36
+db.hncc.edu.cn.		600	IN	A	125.219.124.36
+ddh.hncc.edu.cn.	600	IN	A	125.219.124.36
+dns.hncc.edu.cn.	600	IN	A	125.219.124.8
+dns2.hncc.edu.cn.	600	IN	A	125.219.124.18
+dpstar.hncc.edu.cn.	600	IN	A	42.228.9.26
+drcom.hncc.edu.cn.	600	IN	A	42.228.9.9
+edf.hncc.edu.cn.	600	IN	A	125.219.124.36
+ggjcb.hncc.edu.cn.	600	IN	A	125.219.124.36
+gh.hncc.edu.cn.		600	IN	A	125.219.124.36
+hq.hncc.edu.cn.		600	IN	A	125.219.124.36
+ids.hncc.edu.cn.	600	IN	A	42.228.9.27
+ietc.hncc.edu.cn.	600	IN	A	125.219.124.36
+imp.hncc.edu.cn.	600	IN	A	172.18.88.1
+jg.hncc.edu.cn.		600	IN	A	125.219.124.36
+jgy.hncc.edu.cn.	600	IN	A	125.219.124.36
+jjjc.hncc.edu.cn.	600	IN	A	125.219.124.36
+job.hncc.edu.cn.	600	IN	A	125.46.31.217
+jumpserver.hncc.edu.cn.	600	IN	A	42.228.9.9
+jw.hncc.edu.cn.		600	IN	A	125.219.124.36
+jwc.hncc.edu.cn.	600	IN	A	125.219.124.36
+jwcn.hncc.edu.cn.	600	IN	A	125.219.124.36
+jwcw.hncc.edu.cn.	600	IN	A	125.219.124.36
+jwjcc.hncc.edu.cn.	600	IN	A	125.219.124.36
+jxjyxy.hncc.edu.cn.	600	IN	A	125.219.124.36
+jy.hncc.edu.cn.		600	IN	A	125.46.31.217
+jyjc.hncc.edu.cn.	600	IN	A	172.18.88.16
+jyxx.hncc.edu.cn.	600	IN	A	125.219.124.36
+kyc.hncc.edu.cn.	600	IN	A	125.219.124.36
+library.hncc.edu.cn.	600	IN	A	125.219.124.36
+log.hncc.edu.cn.	600	IN	A	42.228.9.9
+logistics.hncc.edu.cn.	600	IN	A	125.219.124.36
+lxxt.hncc.edu.cn.	600	IN	A	125.219.124.4
+mail.hncc.edu.cn.	600	IN	A	125.219.124.37
+metc.hncc.edu.cn.	600	IN	A	125.219.124.36
+mooc.hncc.edu.cn.	600	IN	A	125.219.124.103
+ms.hncc.edu.cn.		600	IN	A	125.219.124.9
+msp.hncc.edu.cn.	600	IN	A	125.219.124.2
+my.hncc.edu.cn.		600	IN	A	42.228.9.26
+nav.hncc.edu.cn.	600	IN	A	125.219.124.36
+nbw.hncc.edu.cn.	600	IN	A	125.219.124.36
+npm.hncc.edu.cn.	600	IN	A	42.228.9.9
+oa.hncc.edu.cn.		600	IN	A	125.219.124.98
+pop3.hncc.edu.cn.	600	IN	A	125.219.124.37
+pxc.hncc.edu.cn.	600	IN	A	125.219.124.36
+railway.hncc.edu.cn.	600	IN	A	125.219.124.36
+road.hncc.edu.cn.	600	IN	A	125.219.124.36
+rs.hncc.edu.cn.		600	IN	A	42.228.9.26
+rsc.hncc.edu.cn.	600	IN	A	125.219.124.36
+sdmooc.hncc.edu.cn.	600	IN	A	125.219.124.5
+sdmoocb.hncc.edu.cn.	600	IN	A	125.219.124.6
+slx.hncc.edu.cn.	600	IN	A	125.219.124.36
+smtp.hncc.edu.cn.	600	IN	A	125.219.124.37
+syss.hncc.edu.cn.	600	IN	A	125.219.124.36
+szb.hncc.edu.cn.	600	IN	A	125.219.124.36
+tdm.hncc.edu.cn.	600	IN	A	125.219.124.21
+tw.hncc.edu.cn.		600	IN	A	125.219.124.36
+vpn.hncc.edu.cn.	600	IN	A	125.219.124.19
+www.hncc.edu.cn.	600	IN	A	125.219.124.36
+wyty.hncc.edu.cn.	600	IN	A	125.219.124.36
+xfwxds.hncc.edu.cn.	600	IN	A	125.219.124.3
+xg.hncc.edu.cn.		600	IN	A	42.228.9.26
+xgc.hncc.edu.cn.	600	IN	A	125.219.124.36
+xqhzc.hncc.edu.cn.	600	IN	A	125.219.124.36
+yb.hncc.edu.cn.		600	IN	A	125.219.124.36
+yzx.hncc.edu.cn.	600	IN	A	125.219.124.36
+zcc.hncc.edu.cn.	600	IN	A	125.219.124.36
+zfsoft.hncc.edu.cn.	600	IN	A	125.219.124.38
+znkt.hncc.edu.cn.	600	IN	A	125.219.124.22
+zszx.hncc.edu.cn.	600	IN	A	125.219.124.36
+zzb.hncc.edu.cn.	600	IN	A	125.219.124.36
+hncc.edu.cn.		600	IN	SOA	dns.hncc.edu.cn. root.hncc.edu.cn. 2018110200 28800 14400 3600000 7200
+;; Query time: 22 msec
+;; SERVER: 125.219.124.18#53(125.219.124.18)
+;; WHEN: Mon Nov 05 11:50:04 CST 2018
+;; XFR size: 83 records (messages 1, bytes 1778)
+
